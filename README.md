@@ -1,8 +1,4 @@
-<h1 align="center">Error 404 Not Found</h1>
-
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+<h1 align="center">My team Page</h1>
 
 <div align="center">
   <h3>
@@ -26,6 +22,7 @@
 
 
 <!-- OVERVIEW -->
+![Annotation 2022-08-13 193047](https://user-images.githubusercontent.com/104722993/184497996-bbc569a7-abb9-4a81-85df-133402b0c644.png)
 
 ## Overview
 
